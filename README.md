@@ -15,3 +15,10 @@ you can download data set by writing these commands
 !wget -c https://s3.amazonaws.com/content.udacity-data.com/courses/nd188/flower_data.zip
 !unzip -qq flower_data.zip;
 ```
+
+
+references:
+http://howieko.com/projects/classifying_flowers_pytorch/
+https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad
+https://medium.com/udacity/implementing-an-image-classifier-with-pytorch-part-1-cf5444b8e9c9
+https://www.freecodecamp.org/news/how-to-build-an-image-classifier-with-greater-than-97-accuracy-3c72010b3d55/
